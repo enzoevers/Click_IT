@@ -1,0 +1,3 @@
+﻿SELECT GameID FROM (SELECT TOP 1* FROM GameData ORDER BY GameID DESC)SQ ORDER BY GameID ASC
+
+SELECT Reaction_time_1, Reaction_time_2, Reaction_time_3, Reaction_time_4, Reaction_time_5, Reaction_time_6, Reaction_time_7, Reaction_time_8, Reaction_time_9, Reaction_time_10 FROM GameData WHERE Reaction_time_1 IS NOT NULL AND Reaction_time_2 IS NOT NULL AND Reaction_time_3 IS NOT NULL AND Reaction_time_4 IS NOT NULL AND Reaction_time_5 IS NOT NULL AND Reaction_time_6 IS NOT NULL AND Reaction_time_7 IS NOT NULL AND Reaction_time_8 IS NOT NULL AND Reaction_time_9 IS NOT NULL AND Reaction_time_10 IS NOT NULL AND GameID = 3;

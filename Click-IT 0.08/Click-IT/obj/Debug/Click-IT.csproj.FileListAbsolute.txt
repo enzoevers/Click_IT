@@ -1,0 +1,720 @@
+C:\Users\enzoe\OneDrive\School\Visual studio\OIS\Periode 2\FUN12\xaml\Click-IT\Click-IT\bin\Debug\Click-IT.exe.config
+C:\Users\enzoe\OneDrive\School\Visual studio\OIS\Periode 2\FUN12\xaml\Click-IT\Click-IT\bin\Debug\Click-IT.exe
+C:\Users\enzoe\OneDrive\School\Visual studio\OIS\Periode 2\FUN12\xaml\Click-IT\Click-IT\bin\Debug\Click-IT.pdb
+C:\Users\enzoe\OneDrive\School\Visual studio\OIS\Periode 2\FUN12\xaml\Click-IT\Click-IT\obj\Debug\Click-IT.csprojResolveAssemblyReference.cache
+C:\Users\enzoe\OneDrive\School\Visual studio\OIS\Periode 2\FUN12\xaml\Click-IT\Click-IT\obj\Debug\MainWindow.g.cs
+C:\Users\enzoe\OneDrive\School\Visual studio\OIS\Periode 2\FUN12\xaml\Click-IT\Click-IT\obj\Debug\App.g.cs
+C:\Users\enzoe\OneDrive\School\Visual studio\OIS\Periode 2\FUN12\xaml\Click-IT\Click-IT\obj\Debug\Click-IT_MarkupCompile.cache
+C:\Users\enzoe\OneDrive\School\Visual studio\OIS\Periode 2\FUN12\xaml\Click-IT\Click-IT\obj\Debug\Click-IT_MarkupCompile.lref
+C:\Users\enzoe\OneDrive\School\Visual studio\OIS\Periode 2\FUN12\xaml\Click-IT\Click-IT\obj\Debug\MainWindow.baml
+C:\Users\enzoe\OneDrive\School\Visual studio\OIS\Periode 2\FUN12\xaml\Click-IT\Click-IT\obj\Debug\Click-IT.g.resources
+C:\Users\enzoe\OneDrive\School\Visual studio\OIS\Periode 2\FUN12\xaml\Click-IT\Click-IT\obj\Debug\Click_IT.Properties.Resources.resources
+C:\Users\enzoe\OneDrive\School\Visual studio\OIS\Periode 2\FUN12\xaml\Click-IT\Click-IT\obj\Debug\Click-IT.csproj.GenerateResource.Cache
+C:\Users\enzoe\OneDrive\School\Visual studio\OIS\Periode 2\FUN12\xaml\Click-IT\Click-IT\obj\Debug\Click-IT.exe
+C:\Users\enzoe\OneDrive\School\Visual studio\OIS\Periode 2\FUN12\xaml\Click-IT\Click-IT\obj\Debug\Click-IT.pdb
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT\Click-IT\bin\Debug\Click-IT.exe.config
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT\Click-IT\obj\Debug\Click-IT.exe
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT\Click-IT\obj\Debug\Click-IT.pdb
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT\Click-IT\bin\Debug\Click-IT.exe
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT\Click-IT\bin\Debug\Click-IT.pdb
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT\Click-IT\obj\Debug\Click-IT.csprojResolveAssemblyReference.cache
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT\Click-IT\obj\Debug\MainWindow.g.cs
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT\Click-IT\obj\Debug\App.g.cs
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT\Click-IT\obj\Debug\Click-IT_MarkupCompile.cache
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT\Click-IT\obj\Debug\Click-IT_MarkupCompile.lref
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT\Click-IT\obj\Debug\MainWindow.baml
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT\Click-IT\obj\Debug\Click-IT.g.resources
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT\Click-IT\obj\Debug\Click_IT.Properties.Resources.resources
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT\Click-IT\obj\Debug\Click-IT.csproj.GenerateResource.Cache
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT\Click-IT\obj\Debug\Game.g.cs
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT\Click-IT\obj\Debug\Game.baml
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT\Click-IT\bin\Debug\playerDatabase.mdf
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT\Click-IT\bin\Debug\playerDatabase_log.ldf
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT\Click-IT\obj\Debug\Click-IT_Content.g.cs
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT\Click-IT\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT\Click-IT\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT\Click-IT\bin\Debug\Microsoft.Windows.Shell.xml
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT\Click-IT\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT\Click-IT\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT\Click-IT\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT\Click-IT\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT\Click-IT\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT\Click-IT\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT\Click-IT\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT\Click-IT\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT\Click-IT\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT\Click-IT\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT\Click-IT\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT\Click-IT\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT\Click-IT\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT\Click-IT\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT\Click-IT\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT\Click-IT\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 1.0\Click-IT\bin\Debug\Click-IT.exe.config
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 1.0\Click-IT\obj\Debug\Click-IT.exe
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 1.0\Click-IT\obj\Debug\Click-IT.pdb
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 1.0\Click-IT\bin\Debug\playerDatabase.mdf
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 1.0\Click-IT\bin\Debug\playerDatabase_log.ldf
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 1.0\Click-IT\bin\Debug\Click-IT.exe
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 1.0\Click-IT\bin\Debug\Click-IT.pdb
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 1.0\Click-IT\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 1.0\Click-IT\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 1.0\Click-IT\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 1.0\Click-IT\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 1.0\Click-IT\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 1.0\Click-IT\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 1.0\Click-IT\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 1.0\Click-IT\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 1.0\Click-IT\bin\Debug\Microsoft.Windows.Shell.xml
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 1.0\Click-IT\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 1.0\Click-IT\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 1.0\Click-IT\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 1.0\Click-IT\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 1.0\Click-IT\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 1.0\Click-IT\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 1.0\Click-IT\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 1.0\Click-IT\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 1.0\Click-IT\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 1.0\Click-IT\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 1.0\Click-IT\obj\Debug\Click-IT.csprojResolveAssemblyReference.cache
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 1.0\Click-IT\obj\Debug\Game.g.cs
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 1.0\Click-IT\obj\Debug\MainWindow.g.cs
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 1.0\Click-IT\obj\Debug\App.g.cs
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 1.0\Click-IT\obj\Debug\Click-IT_Content.g.cs
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 1.0\Click-IT\obj\Debug\Click-IT_MarkupCompile.cache
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 1.0\Click-IT\obj\Debug\Click-IT_MarkupCompile.lref
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 1.0\Click-IT\obj\Debug\Game.baml
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 1.0\Click-IT\obj\Debug\MainWindow.baml
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 1.0\Click-IT\obj\Debug\Click-IT.g.resources
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 1.0\Click-IT\obj\Debug\Click_IT.Properties.Resources.resources
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 1.0\Click-IT\obj\Debug\Click-IT.csproj.GenerateResource.Cache
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 2.0\Click-IT\bin\Debug\Click-IT.exe.config
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 2.0\Click-IT\obj\Debug\Click-IT.exe
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 2.0\Click-IT\obj\Debug\Click-IT.pdb
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 2.0\Click-IT\obj\Debug\Click-IT.csprojResolveAssemblyReference.cache
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 2.0\Click-IT\obj\Debug\Game.g.cs
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 2.0\Click-IT\obj\Debug\MainWindow.g.cs
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 2.0\Click-IT\obj\Debug\App.g.cs
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 2.0\Click-IT\obj\Debug\Click-IT_Content.g.cs
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 2.0\Click-IT\obj\Debug\Click-IT_MarkupCompile.cache
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 2.0\Click-IT\obj\Debug\Click-IT_MarkupCompile.lref
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 2.0\Click-IT\bin\Debug\playerDatabase.mdf
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 2.0\Click-IT\bin\Debug\playerDatabase_log.ldf
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 2.0\Click-IT\bin\Debug\Click-IT.exe
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 2.0\Click-IT\bin\Debug\Click-IT.pdb
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 2.0\Click-IT\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 2.0\Click-IT\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 2.0\Click-IT\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 2.0\Click-IT\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 2.0\Click-IT\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 2.0\Click-IT\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 2.0\Click-IT\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 2.0\Click-IT\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 2.0\Click-IT\bin\Debug\Microsoft.Windows.Shell.xml
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 2.0\Click-IT\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 2.0\Click-IT\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 2.0\Click-IT\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 2.0\Click-IT\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 2.0\Click-IT\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 2.0\Click-IT\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 2.0\Click-IT\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 2.0\Click-IT\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 2.0\Click-IT\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 2.0\Click-IT\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 2.0\Click-IT\obj\Debug\Game.baml
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 2.0\Click-IT\obj\Debug\MainWindow.baml
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 2.0\Click-IT\obj\Debug\Click-IT.g.resources
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 2.0\Click-IT\obj\Debug\Click_IT.Properties.Resources.resources
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 2.0\Click-IT\obj\Debug\Click-IT.csproj.GenerateResource.Cache
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 2.0\Click-IT\obj\Debug\MakeProfile.g.cs
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 2.0\Click-IT\obj\Debug\MakeProfile.baml
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 3.0\Click-IT\bin\Debug\Click-IT.exe.config
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 3.0\Click-IT\obj\Debug\Click-IT.exe
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 3.0\Click-IT\obj\Debug\Click-IT.pdb
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 3.0\Click-IT\bin\Debug\playerDatabase.mdf
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 3.0\Click-IT\bin\Debug\playerDatabase_log.ldf
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 3.0\Click-IT\bin\Debug\Click-IT.exe
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 3.0\Click-IT\bin\Debug\Click-IT.pdb
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 3.0\Click-IT\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 3.0\Click-IT\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 3.0\Click-IT\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 3.0\Click-IT\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 3.0\Click-IT\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 3.0\Click-IT\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 3.0\Click-IT\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 3.0\Click-IT\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 3.0\Click-IT\bin\Debug\Microsoft.Windows.Shell.xml
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 3.0\Click-IT\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 3.0\Click-IT\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 3.0\Click-IT\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 3.0\Click-IT\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 3.0\Click-IT\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 3.0\Click-IT\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 3.0\Click-IT\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 3.0\Click-IT\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 3.0\Click-IT\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 3.0\Click-IT\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 3.0\Click-IT\obj\Debug\Click-IT.csprojResolveAssemblyReference.cache
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 3.0\Click-IT\obj\Debug\Game.g.cs
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 3.0\Click-IT\obj\Debug\MainWindow.g.cs
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 3.0\Click-IT\obj\Debug\MakeProfile.g.cs
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 3.0\Click-IT\obj\Debug\App.g.cs
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 3.0\Click-IT\obj\Debug\Click-IT_Content.g.cs
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 3.0\Click-IT\obj\Debug\Click-IT_MarkupCompile.cache
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 3.0\Click-IT\obj\Debug\Click-IT_MarkupCompile.lref
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 3.0\Click-IT\obj\Debug\Game.baml
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 3.0\Click-IT\obj\Debug\MainWindow.baml
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 3.0\Click-IT\obj\Debug\MakeProfile.baml
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 3.0\Click-IT\obj\Debug\Click-IT.g.resources
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 3.0\Click-IT\obj\Debug\Click_IT.Properties.Resources.resources
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 3.0\Click-IT\obj\Debug\Click-IT.csproj.GenerateResource.Cache
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 4.0\Click-IT\bin\Debug\Click-IT.exe.config
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 4.0\Click-IT\obj\Debug\Click-IT.exe
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 4.0\Click-IT\obj\Debug\Click-IT.pdb
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 4.0\Click-IT\bin\Debug\playerDatabase.mdf
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 4.0\Click-IT\bin\Debug\playerDatabase_log.ldf
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 4.0\Click-IT\bin\Debug\Click-IT.exe
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 4.0\Click-IT\bin\Debug\Click-IT.pdb
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 4.0\Click-IT\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 4.0\Click-IT\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 4.0\Click-IT\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 4.0\Click-IT\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 4.0\Click-IT\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 4.0\Click-IT\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 4.0\Click-IT\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 4.0\Click-IT\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 4.0\Click-IT\bin\Debug\Microsoft.Windows.Shell.xml
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 4.0\Click-IT\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 4.0\Click-IT\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 4.0\Click-IT\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 4.0\Click-IT\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 4.0\Click-IT\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 4.0\Click-IT\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 4.0\Click-IT\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 4.0\Click-IT\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 4.0\Click-IT\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 4.0\Click-IT\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 4.0\Click-IT\obj\Debug\Click-IT.csprojResolveAssemblyReference.cache
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 4.0\Click-IT\obj\Debug\Game.g.cs
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 4.0\Click-IT\obj\Debug\MainWindow.g.cs
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 4.0\Click-IT\obj\Debug\MakeProfile.g.cs
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 4.0\Click-IT\obj\Debug\App.g.cs
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 4.0\Click-IT\obj\Debug\Click-IT_Content.g.cs
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 4.0\Click-IT\obj\Debug\Click-IT_MarkupCompile.cache
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 4.0\Click-IT\obj\Debug\Click-IT_MarkupCompile.lref
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 4.0\Click-IT\obj\Debug\Game.baml
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 4.0\Click-IT\obj\Debug\MainWindow.baml
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 4.0\Click-IT\obj\Debug\MakeProfile.baml
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 4.0\Click-IT\obj\Debug\Click-IT.g.resources
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 4.0\Click-IT\obj\Debug\Click_IT.Properties.Resources.resources
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 4.0\Click-IT\obj\Debug\Click-IT.csproj.GenerateResource.Cache
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 5.0\Click-IT\bin\Debug\Click-IT.exe.config
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 5.0\Click-IT\obj\Debug\Click-IT.exe
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 5.0\Click-IT\obj\Debug\Click-IT.pdb
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 5.0\Click-IT\bin\Debug\playerDatabase.mdf
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 5.0\Click-IT\bin\Debug\playerDatabase_log.ldf
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 5.0\Click-IT\bin\Debug\Click-IT.exe
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 5.0\Click-IT\bin\Debug\Click-IT.pdb
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 5.0\Click-IT\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 5.0\Click-IT\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 5.0\Click-IT\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 5.0\Click-IT\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 5.0\Click-IT\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 5.0\Click-IT\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 5.0\Click-IT\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 5.0\Click-IT\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 5.0\Click-IT\bin\Debug\Microsoft.Windows.Shell.xml
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 5.0\Click-IT\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 5.0\Click-IT\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 5.0\Click-IT\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 5.0\Click-IT\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 5.0\Click-IT\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 5.0\Click-IT\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 5.0\Click-IT\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 5.0\Click-IT\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 5.0\Click-IT\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 5.0\Click-IT\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 5.0\Click-IT\obj\Debug\Click-IT.csprojResolveAssemblyReference.cache
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 5.0\Click-IT\obj\Debug\Game.g.cs
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 5.0\Click-IT\obj\Debug\MainWindow.g.cs
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 5.0\Click-IT\obj\Debug\MakeProfile.g.cs
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 5.0\Click-IT\obj\Debug\App.g.cs
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 5.0\Click-IT\obj\Debug\Click-IT_Content.g.cs
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 5.0\Click-IT\obj\Debug\Click-IT_MarkupCompile.cache
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 5.0\Click-IT\obj\Debug\Click-IT_MarkupCompile.lref
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 5.0\Click-IT\obj\Debug\Game.baml
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 5.0\Click-IT\obj\Debug\MainWindow.baml
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 5.0\Click-IT\obj\Debug\MakeProfile.baml
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 5.0\Click-IT\obj\Debug\Click-IT.g.resources
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 5.0\Click-IT\obj\Debug\Click_IT.Properties.Resources.resources
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 5.0\Click-IT\obj\Debug\Click-IT.csproj.GenerateResource.Cache
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 6.0\Click-IT\bin\Debug\Click-IT.exe.config
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 6.0\Click-IT\obj\Debug\Click-IT.exe
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 6.0\Click-IT\obj\Debug\Click-IT.pdb
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 6.0\Click-IT\bin\Debug\playerDatabase.mdf
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 6.0\Click-IT\bin\Debug\playerDatabase_log.ldf
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 6.0\Click-IT\bin\Debug\Click-IT.exe
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 6.0\Click-IT\bin\Debug\Click-IT.pdb
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 6.0\Click-IT\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 6.0\Click-IT\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 6.0\Click-IT\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 6.0\Click-IT\bin\Debug\Microsoft.Windows.Shell.xml
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 6.0\Click-IT\obj\Debug\Click-IT.csprojResolveAssemblyReference.cache
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 6.0\Click-IT\obj\Debug\Game.g.cs
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 6.0\Click-IT\obj\Debug\MainWindow.g.cs
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 6.0\Click-IT\obj\Debug\MakeProfile.g.cs
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 6.0\Click-IT\obj\Debug\App.g.cs
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 6.0\Click-IT\obj\Debug\Click-IT_Content.g.cs
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 6.0\Click-IT\obj\Debug\Click-IT_MarkupCompile.cache
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 6.0\Click-IT\obj\Debug\Click-IT_MarkupCompile.lref
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 6.0\Click-IT\obj\Debug\Game.baml
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 6.0\Click-IT\obj\Debug\MainWindow.baml
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 6.0\Click-IT\obj\Debug\MakeProfile.baml
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 6.0\Click-IT\obj\Debug\Click-IT.g.resources
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 6.0\Click-IT\obj\Debug\Click_IT.Properties.Resources.resources
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 6.0\Click-IT\obj\Debug\Click-IT.csproj.GenerateResource.Cache
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 7.0\Click-IT\bin\Debug\Click-IT.exe.config
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 7.0\Click-IT\obj\Debug\Click-IT.exe
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 7.0\Click-IT\obj\Debug\Click-IT.pdb
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 7.0\Click-IT\bin\Debug\playerDatabase.mdf
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 7.0\Click-IT\bin\Debug\playerDatabase_log.ldf
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 7.0\Click-IT\bin\Debug\Click-IT.exe
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 7.0\Click-IT\bin\Debug\Click-IT.pdb
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 7.0\Click-IT\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 7.0\Click-IT\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 7.0\Click-IT\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 7.0\Click-IT\bin\Debug\Microsoft.Windows.Shell.xml
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 7.0\Click-IT\obj\Debug\Click-IT.csprojResolveAssemblyReference.cache
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 7.0\Click-IT\obj\Debug\Game.g.cs
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 7.0\Click-IT\obj\Debug\MainWindow.g.cs
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 7.0\Click-IT\obj\Debug\MakeProfile.g.cs
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 7.0\Click-IT\obj\Debug\App.g.cs
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 7.0\Click-IT\obj\Debug\Click-IT_Content.g.cs
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 7.0\Click-IT\obj\Debug\Click-IT_MarkupCompile.cache
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 7.0\Click-IT\obj\Debug\Click-IT_MarkupCompile.lref
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 7.0\Click-IT\obj\Debug\Game.baml
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 7.0\Click-IT\obj\Debug\MainWindow.baml
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 7.0\Click-IT\obj\Debug\MakeProfile.baml
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 7.0\Click-IT\obj\Debug\Click-IT.g.resources
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 7.0\Click-IT\obj\Debug\Click_IT.Properties.Resources.resources
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 7.0\Click-IT\obj\Debug\Click-IT.csproj.GenerateResource.Cache
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 8.0\Click-IT\bin\Debug\Click-IT.exe.config
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 8.0\Click-IT\obj\Debug\Click-IT.exe
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 8.0\Click-IT\obj\Debug\Click-IT.pdb
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 8.0\Click-IT\bin\Debug\playerDatabase.mdf
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 8.0\Click-IT\bin\Debug\playerDatabase_log.ldf
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 8.0\Click-IT\bin\Debug\Click-IT.exe
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 8.0\Click-IT\bin\Debug\Click-IT.pdb
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 8.0\Click-IT\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 8.0\Click-IT\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 8.0\Click-IT\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 8.0\Click-IT\bin\Debug\Microsoft.Windows.Shell.xml
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 8.0\Click-IT\obj\Debug\Click-IT.csprojResolveAssemblyReference.cache
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 8.0\Click-IT\obj\Debug\Game.g.cs
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 8.0\Click-IT\obj\Debug\MainWindow.g.cs
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 8.0\Click-IT\obj\Debug\MakeProfile.g.cs
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 8.0\Click-IT\obj\Debug\App.g.cs
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 8.0\Click-IT\obj\Debug\Click-IT_Content.g.cs
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 8.0\Click-IT\obj\Debug\Click-IT_MarkupCompile.cache
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 8.0\Click-IT\obj\Debug\Click-IT_MarkupCompile.lref
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 8.0\Click-IT\obj\Debug\Game.baml
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 8.0\Click-IT\obj\Debug\MainWindow.baml
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 8.0\Click-IT\obj\Debug\MakeProfile.baml
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 8.0\Click-IT\obj\Debug\Click-IT.g.resources
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 8.0\Click-IT\obj\Debug\Click_IT.Properties.Resources.resources
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 8.0\Click-IT\obj\Debug\Click-IT.csproj.GenerateResource.Cache
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 9.0\Click-IT\bin\Debug\Click-IT.exe.config
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 9.0\Click-IT\obj\Debug\Click-IT.exe
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 9.0\Click-IT\obj\Debug\Click-IT.pdb
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 9.0\Click-IT\bin\Debug\playerDatabase.mdf
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 9.0\Click-IT\bin\Debug\playerDatabase_log.ldf
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 9.0\Click-IT\bin\Debug\Click-IT.exe
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 9.0\Click-IT\bin\Debug\Click-IT.pdb
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 9.0\Click-IT\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 9.0\Click-IT\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 9.0\Click-IT\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 9.0\Click-IT\bin\Debug\Microsoft.Windows.Shell.xml
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 9.0\Click-IT\obj\Debug\Click-IT.csprojResolveAssemblyReference.cache
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 9.0\Click-IT\obj\Debug\Game.g.cs
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 9.0\Click-IT\obj\Debug\MainWindow.g.cs
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 9.0\Click-IT\obj\Debug\MakeProfile.g.cs
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 9.0\Click-IT\obj\Debug\App.g.cs
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 9.0\Click-IT\obj\Debug\Click-IT_Content.g.cs
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 9.0\Click-IT\obj\Debug\Click-IT_MarkupCompile.cache
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 9.0\Click-IT\obj\Debug\Click-IT_MarkupCompile.lref
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 9.0\Click-IT\obj\Debug\Game.baml
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 9.0\Click-IT\obj\Debug\MainWindow.baml
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 9.0\Click-IT\obj\Debug\MakeProfile.baml
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 9.0\Click-IT\obj\Debug\Click-IT.g.resources
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 9.0\Click-IT\obj\Debug\Click_IT.Properties.Resources.resources
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 9.0\Click-IT\obj\Debug\Click-IT.csproj.GenerateResource.Cache
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 10.0\Click-IT\bin\Debug\Click-IT.exe.config
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 10.0\Click-IT\obj\Debug\Click-IT.exe
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 10.0\Click-IT\obj\Debug\Click-IT.pdb
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 10.0\Click-IT\bin\Debug\playerDatabase.mdf
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 10.0\Click-IT\bin\Debug\playerDatabase_log.ldf
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 10.0\Click-IT\bin\Debug\Click-IT.exe
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 10.0\Click-IT\bin\Debug\Click-IT.pdb
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 10.0\Click-IT\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 10.0\Click-IT\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 10.0\Click-IT\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 10.0\Click-IT\bin\Debug\Microsoft.Windows.Shell.xml
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 10.0\Click-IT\obj\Debug\Click-IT.csprojResolveAssemblyReference.cache
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 10.0\Click-IT\obj\Debug\Game.g.cs
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 10.0\Click-IT\obj\Debug\MainWindow.g.cs
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 10.0\Click-IT\obj\Debug\MakeProfile.g.cs
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 10.0\Click-IT\obj\Debug\App.g.cs
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 10.0\Click-IT\obj\Debug\Click-IT_Content.g.cs
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 10.0\Click-IT\obj\Debug\Click-IT_MarkupCompile.cache
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 10.0\Click-IT\obj\Debug\Click-IT_MarkupCompile.lref
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 10.0\Click-IT\obj\Debug\Game.baml
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 10.0\Click-IT\obj\Debug\MainWindow.baml
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 10.0\Click-IT\obj\Debug\MakeProfile.baml
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 10.0\Click-IT\obj\Debug\Click-IT.g.resources
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 10.0\Click-IT\obj\Debug\Click_IT.Properties.Resources.resources
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 10.0\Click-IT\obj\Debug\Click-IT.csproj.GenerateResource.Cache
+C:\Users\enzoe\OneDrive\Click-IT\Click-IT\bin\Debug\Click-IT.exe.config
+C:\Users\enzoe\OneDrive\Click-IT\Click-IT\obj\Debug\Click-IT.exe
+C:\Users\enzoe\OneDrive\Click-IT\Click-IT\obj\Debug\Click-IT.pdb
+C:\Users\enzoe\OneDrive\Click-IT\Click-IT\bin\Debug\playerDatabase.mdf
+C:\Users\enzoe\OneDrive\Click-IT\Click-IT\bin\Debug\playerDatabase_log.ldf
+C:\Users\enzoe\OneDrive\Click-IT\Click-IT\bin\Debug\Click-IT.exe
+C:\Users\enzoe\OneDrive\Click-IT\Click-IT\bin\Debug\Click-IT.pdb
+C:\Users\enzoe\OneDrive\Click-IT\Click-IT\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\enzoe\OneDrive\Click-IT\Click-IT\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\enzoe\OneDrive\Click-IT\Click-IT\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\enzoe\OneDrive\Click-IT\Click-IT\bin\Debug\Microsoft.Windows.Shell.xml
+C:\Users\enzoe\OneDrive\Click-IT\Click-IT\obj\Debug\Click-IT.csprojResolveAssemblyReference.cache
+C:\Users\enzoe\OneDrive\Click-IT\Click-IT\obj\Debug\Game.g.cs
+C:\Users\enzoe\OneDrive\Click-IT\Click-IT\obj\Debug\MainWindow.g.cs
+C:\Users\enzoe\OneDrive\Click-IT\Click-IT\obj\Debug\MakeProfile.g.cs
+C:\Users\enzoe\OneDrive\Click-IT\Click-IT\obj\Debug\App.g.cs
+C:\Users\enzoe\OneDrive\Click-IT\Click-IT\obj\Debug\Click-IT_Content.g.cs
+C:\Users\enzoe\OneDrive\Click-IT\Click-IT\obj\Debug\Click-IT_MarkupCompile.cache
+C:\Users\enzoe\OneDrive\Click-IT\Click-IT\obj\Debug\Click-IT_MarkupCompile.lref
+C:\Users\enzoe\OneDrive\Click-IT\Click-IT\obj\Debug\Game.baml
+C:\Users\enzoe\OneDrive\Click-IT\Click-IT\obj\Debug\MainWindow.baml
+C:\Users\enzoe\OneDrive\Click-IT\Click-IT\obj\Debug\MakeProfile.baml
+C:\Users\enzoe\OneDrive\Click-IT\Click-IT\obj\Debug\Click-IT.g.resources
+C:\Users\enzoe\OneDrive\Click-IT\Click-IT\obj\Debug\Click_IT.Properties.Resources.resources
+C:\Users\enzoe\OneDrive\Click-IT\Click-IT\obj\Debug\Click-IT.csproj.GenerateResource.Cache
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.01\Click-IT\bin\Debug\Click-IT.exe.config
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.01\Click-IT\obj\Debug\Click-IT.exe
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.01\Click-IT\obj\Debug\Click-IT.pdb
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.01\Click-IT\bin\Debug\playerDatabase.mdf
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.01\Click-IT\bin\Debug\playerDatabase_log.ldf
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.01\Click-IT\bin\Debug\Click-IT.exe
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.01\Click-IT\bin\Debug\Click-IT.pdb
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.01\Click-IT\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.01\Click-IT\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.01\Click-IT\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.01\Click-IT\bin\Debug\Microsoft.Windows.Shell.xml
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.01\Click-IT\obj\Debug\Click-IT.csprojResolveAssemblyReference.cache
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.01\Click-IT\obj\Debug\Game.g.cs
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.01\Click-IT\obj\Debug\MainWindow.g.cs
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.01\Click-IT\obj\Debug\MakeProfile.g.cs
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.01\Click-IT\obj\Debug\App.g.cs
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.01\Click-IT\obj\Debug\Click-IT_Content.g.cs
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.01\Click-IT\obj\Debug\Click-IT_MarkupCompile.cache
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.01\Click-IT\obj\Debug\Click-IT_MarkupCompile.lref
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.01\Click-IT\obj\Debug\Game.baml
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.01\Click-IT\obj\Debug\MainWindow.baml
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.01\Click-IT\obj\Debug\MakeProfile.baml
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.01\Click-IT\obj\Debug\Click-IT.g.resources
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.01\Click-IT\obj\Debug\Click_IT.Properties.Resources.resources
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.01\Click-IT\obj\Debug\Click-IT.csproj.GenerateResource.Cache
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.02\Click-IT\bin\Debug\Click-IT.exe.config
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.02\Click-IT\obj\Debug\Click-IT.exe
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.02\Click-IT\obj\Debug\Click-IT.pdb
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.02\Click-IT\bin\Debug\playerDatabase.mdf
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.02\Click-IT\bin\Debug\playerDatabase_log.ldf
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.02\Click-IT\bin\Debug\Click-IT.exe
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.02\Click-IT\bin\Debug\Click-IT.pdb
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.02\Click-IT\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.02\Click-IT\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.02\Click-IT\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.02\Click-IT\bin\Debug\Microsoft.Windows.Shell.xml
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.02\Click-IT\obj\Debug\Click-IT.csprojResolveAssemblyReference.cache
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.02\Click-IT\obj\Debug\Game.g.cs
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.02\Click-IT\obj\Debug\MainWindow.g.cs
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.02\Click-IT\obj\Debug\MakeProfile.g.cs
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.02\Click-IT\obj\Debug\App.g.cs
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.02\Click-IT\obj\Debug\Click-IT_Content.g.cs
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.02\Click-IT\obj\Debug\Click-IT_MarkupCompile.cache
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.02\Click-IT\obj\Debug\Click-IT_MarkupCompile.lref
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.02\Click-IT\obj\Debug\Game.baml
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.02\Click-IT\obj\Debug\MainWindow.baml
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.02\Click-IT\obj\Debug\MakeProfile.baml
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.02\Click-IT\obj\Debug\Click-IT.g.resources
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.02\Click-IT\obj\Debug\Click_IT.Properties.Resources.resources
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.02\Click-IT\obj\Debug\Click-IT.csproj.GenerateResource.Cache
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.03\Click-IT\bin\Debug\Click-IT.exe.config
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.03\Click-IT\obj\Debug\Click-IT.exe
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.03\Click-IT\obj\Debug\Click-IT.pdb
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.03\Click-IT\bin\Debug\playerDatabase.mdf
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.03\Click-IT\bin\Debug\playerDatabase_log.ldf
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.03\Click-IT\bin\Debug\Click-IT.exe
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.03\Click-IT\bin\Debug\Click-IT.pdb
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.03\Click-IT\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.03\Click-IT\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.03\Click-IT\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.03\Click-IT\bin\Debug\Microsoft.Windows.Shell.xml
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.03\Click-IT\obj\Debug\Click-IT.csprojResolveAssemblyReference.cache
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.03\Click-IT\obj\Debug\Game.g.cs
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.03\Click-IT\obj\Debug\MainWindow.g.cs
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.03\Click-IT\obj\Debug\MakeProfile.g.cs
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.03\Click-IT\obj\Debug\App.g.cs
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.03\Click-IT\obj\Debug\Click-IT_Content.g.cs
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.03\Click-IT\obj\Debug\Click-IT_MarkupCompile.cache
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.03\Click-IT\obj\Debug\Click-IT_MarkupCompile.lref
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.03\Click-IT\obj\Debug\Game.baml
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.03\Click-IT\obj\Debug\MainWindow.baml
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.03\Click-IT\obj\Debug\MakeProfile.baml
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.03\Click-IT\obj\Debug\Click-IT.g.resources
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.03\Click-IT\obj\Debug\Click_IT.Properties.Resources.resources
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.03\Click-IT\obj\Debug\Click-IT.csproj.GenerateResource.Cache
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.04\Click-IT\bin\Debug\Click-IT.exe.config
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.04\Click-IT\obj\Debug\Click-IT.exe
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.04\Click-IT\obj\Debug\Click-IT.pdb
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.04\Click-IT\obj\Debug\Click-IT.csprojResolveAssemblyReference.cache
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.04\Click-IT\obj\Debug\Game.g.cs
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.04\Click-IT\obj\Debug\MainWindow.g.cs
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.04\Click-IT\obj\Debug\MakeProfile.g.cs
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.04\Click-IT\obj\Debug\App.g.cs
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.04\Click-IT\obj\Debug\Click-IT_Content.g.cs
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.04\Click-IT\obj\Debug\Click-IT_MarkupCompile.cache
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.04\Click-IT\obj\Debug\Click-IT_MarkupCompile.lref
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.04\Click-IT\bin\Debug\playerDatabase.mdf
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.04\Click-IT\bin\Debug\playerDatabase_log.ldf
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.04\Click-IT\bin\Debug\Click-IT.exe
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.04\Click-IT\bin\Debug\Click-IT.pdb
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.04\Click-IT\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.04\Click-IT\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.04\Click-IT\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.04\Click-IT\bin\Debug\Microsoft.Windows.Shell.xml
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.04\Click-IT\obj\Debug\Game.baml
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.04\Click-IT\obj\Debug\MainWindow.baml
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.04\Click-IT\obj\Debug\MakeProfile.baml
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.04\Click-IT\obj\Debug\Click-IT.g.resources
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.04\Click-IT\obj\Debug\Click_IT.Properties.Resources.resources
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.04\Click-IT\obj\Debug\Click-IT.csproj.GenerateResource.Cache
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.06\Click-IT\bin\Debug\Click-IT.exe.config
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.06\Click-IT\obj\Debug\Click-IT.exe
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.06\Click-IT\obj\Debug\Click-IT.pdb
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.06\Click-IT\bin\Debug\playerDatabase.mdf
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.06\Click-IT\bin\Debug\playerDatabase_log.ldf
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.06\Click-IT\bin\Debug\Click-IT.exe
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.06\Click-IT\bin\Debug\Click-IT.pdb
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.06\Click-IT\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.06\Click-IT\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.06\Click-IT\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.06\Click-IT\bin\Debug\Microsoft.Windows.Shell.xml
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.06\Click-IT\obj\Debug\Click-IT.csprojResolveAssemblyReference.cache
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.06\Click-IT\obj\Debug\Game.g.cs
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.06\Click-IT\obj\Debug\MainWindow.g.cs
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.06\Click-IT\obj\Debug\MakeProfile.g.cs
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.06\Click-IT\obj\Debug\App.g.cs
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.06\Click-IT\obj\Debug\Click-IT_Content.g.cs
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.06\Click-IT\obj\Debug\Click-IT_MarkupCompile.cache
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.06\Click-IT\obj\Debug\Click-IT_MarkupCompile.lref
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.06\Click-IT\obj\Debug\Game.baml
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.06\Click-IT\obj\Debug\MainWindow.baml
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.06\Click-IT\obj\Debug\MakeProfile.baml
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.06\Click-IT\obj\Debug\Click-IT.g.resources
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.06\Click-IT\obj\Debug\Click_IT.Properties.Resources.resources
+C:\Users\enzoe\Documents\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.06\Click-IT\obj\Debug\Click-IT.csproj.GenerateResource.Cache
+J:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.06\Click-IT\bin\Debug\Click-IT.exe.config
+J:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.06\Click-IT\obj\Debug\Click-IT.exe
+J:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.06\Click-IT\obj\Debug\Click-IT.pdb
+J:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.06\Click-IT\bin\Debug\playerDatabase.mdf
+J:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.06\Click-IT\bin\Debug\playerDatabase_log.ldf
+J:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.06\Click-IT\bin\Debug\Click-IT.exe
+J:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.06\Click-IT\bin\Debug\Click-IT.pdb
+J:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.06\Click-IT\bin\Debug\Xceed.Wpf.Toolkit.dll
+J:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.06\Click-IT\bin\Debug\Microsoft.Windows.Shell.pdb
+J:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.06\Click-IT\bin\Debug\Microsoft.Windows.Shell.xml
+J:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.06\Click-IT\obj\Debug\Click-IT.csprojResolveAssemblyReference.cache
+J:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.06\Click-IT\obj\Debug\Game.g.cs
+J:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.06\Click-IT\obj\Debug\MainWindow.g.cs
+J:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.06\Click-IT\obj\Debug\MakeProfile.g.cs
+J:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.06\Click-IT\obj\Debug\App.g.cs
+J:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.06\Click-IT\obj\Debug\Click-IT_Content.g.cs
+J:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.06\Click-IT\obj\Debug\Click-IT_MarkupCompile.cache
+J:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.06\Click-IT\obj\Debug\Click-IT_MarkupCompile.lref
+J:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.06\Click-IT\obj\Debug\Game.baml
+J:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.06\Click-IT\obj\Debug\MainWindow.baml
+J:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.06\Click-IT\obj\Debug\MakeProfile.baml
+J:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.06\Click-IT\obj\Debug\Click-IT.g.resources
+J:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.06\Click-IT\obj\Debug\Click_IT.Properties.Resources.resources
+J:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.06\Click-IT\obj\Debug\Click-IT.csproj.GenerateResource.Cache
+F:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.06\Click-IT\bin\Debug\Click-IT.exe.config
+F:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.06\Click-IT\obj\Debug\Click-IT.exe
+F:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.06\Click-IT\obj\Debug\Click-IT.pdb
+F:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.06\Click-IT\bin\Debug\playerDatabase.mdf
+F:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.06\Click-IT\bin\Debug\playerDatabase_log.ldf
+F:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.06\Click-IT\bin\Debug\Click-IT.exe
+F:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.06\Click-IT\bin\Debug\Click-IT.pdb
+F:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.06\Click-IT\bin\Debug\Microsoft.Windows.Shell.dll
+F:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.06\Click-IT\bin\Debug\Xceed.Wpf.Toolkit.dll
+F:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.06\Click-IT\bin\Debug\Microsoft.Windows.Shell.pdb
+F:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.06\Click-IT\bin\Debug\Microsoft.Windows.Shell.xml
+F:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.06\Click-IT\obj\Debug\Click-IT.csprojResolveAssemblyReference.cache
+F:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.06\Click-IT\obj\Debug\Game.g.cs
+F:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.06\Click-IT\obj\Debug\MainWindow.g.cs
+F:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.06\Click-IT\obj\Debug\MakeProfile.g.cs
+F:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.06\Click-IT\obj\Debug\App.g.cs
+F:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.06\Click-IT\obj\Debug\Click-IT_Content.g.cs
+F:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.06\Click-IT\obj\Debug\Click-IT_MarkupCompile.cache
+F:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.06\Click-IT\obj\Debug\Click-IT_MarkupCompile.lref
+F:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.06\Click-IT\obj\Debug\Game.baml
+F:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.06\Click-IT\obj\Debug\MainWindow.baml
+F:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.06\Click-IT\obj\Debug\MakeProfile.baml
+F:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.06\Click-IT\obj\Debug\Click-IT.g.resources
+F:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.06\Click-IT\obj\Debug\Click_IT.Properties.Resources.resources
+F:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.06\Click-IT\obj\Debug\Click-IT.csproj.GenerateResource.Cache
+F:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.07\Click-IT\bin\Debug\Click-IT.exe.config
+F:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.07\Click-IT\obj\Debug\Click-IT.exe
+F:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.07\Click-IT\obj\Debug\Click-IT.pdb
+F:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.07\Click-IT\bin\Debug\playerDatabase.mdf
+F:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.07\Click-IT\bin\Debug\playerDatabase_log.ldf
+F:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.07\Click-IT\bin\Debug\Click-IT.exe
+F:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.07\Click-IT\bin\Debug\Click-IT.pdb
+F:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.07\Click-IT\bin\Debug\Microsoft.Windows.Shell.dll
+F:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.07\Click-IT\bin\Debug\Xceed.Wpf.Toolkit.dll
+F:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.07\Click-IT\bin\Debug\Microsoft.Windows.Shell.pdb
+F:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.07\Click-IT\bin\Debug\Microsoft.Windows.Shell.xml
+F:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.07\Click-IT\obj\Debug\Click-IT.csprojResolveAssemblyReference.cache
+F:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.07\Click-IT\obj\Debug\Game.g.cs
+F:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.07\Click-IT\obj\Debug\MainWindow.g.cs
+F:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.07\Click-IT\obj\Debug\MakeProfile.g.cs
+F:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.07\Click-IT\obj\Debug\App.g.cs
+F:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.07\Click-IT\obj\Debug\Click-IT_Content.g.cs
+F:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.07\Click-IT\obj\Debug\Click-IT_MarkupCompile.cache
+F:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.07\Click-IT\obj\Debug\Click-IT_MarkupCompile.lref
+F:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.07\Click-IT\obj\Debug\Game.baml
+F:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.07\Click-IT\obj\Debug\MainWindow.baml
+F:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.07\Click-IT\obj\Debug\MakeProfile.baml
+F:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.07\Click-IT\obj\Debug\Click-IT.g.resources
+F:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.07\Click-IT\obj\Debug\Click_IT.Properties.Resources.resources
+F:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.07\Click-IT\obj\Debug\Click-IT.csproj.GenerateResource.Cache
+C:\Users\enzoe\OneDrive\Click-IT 0.07\Click-IT\bin\Debug\Click-IT.exe.config
+C:\Users\enzoe\OneDrive\Click-IT 0.07\Click-IT\obj\Debug\Click-IT.exe
+C:\Users\enzoe\OneDrive\Click-IT 0.07\Click-IT\obj\Debug\Click-IT.pdb
+C:\Users\enzoe\OneDrive\Click-IT 0.07\Click-IT\bin\Debug\playerDatabase.mdf
+C:\Users\enzoe\OneDrive\Click-IT 0.07\Click-IT\bin\Debug\playerDatabase_log.ldf
+C:\Users\enzoe\OneDrive\Click-IT 0.07\Click-IT\bin\Debug\Click-IT.exe
+C:\Users\enzoe\OneDrive\Click-IT 0.07\Click-IT\bin\Debug\Click-IT.pdb
+C:\Users\enzoe\OneDrive\Click-IT 0.07\Click-IT\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\enzoe\OneDrive\Click-IT 0.07\Click-IT\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\enzoe\OneDrive\Click-IT 0.07\Click-IT\bin\Debug\Microsoft.Windows.Shell.xml
+C:\Users\enzoe\OneDrive\Click-IT 0.07\Click-IT\obj\Debug\Click-IT.csprojResolveAssemblyReference.cache
+C:\Users\enzoe\OneDrive\Click-IT 0.07\Click-IT\obj\Debug\Game.g.cs
+C:\Users\enzoe\OneDrive\Click-IT 0.07\Click-IT\obj\Debug\MainWindow.g.cs
+C:\Users\enzoe\OneDrive\Click-IT 0.07\Click-IT\obj\Debug\MakeProfile.g.cs
+C:\Users\enzoe\OneDrive\Click-IT 0.07\Click-IT\obj\Debug\App.g.cs
+C:\Users\enzoe\OneDrive\Click-IT 0.07\Click-IT\obj\Debug\Click-IT_Content.g.cs
+C:\Users\enzoe\OneDrive\Click-IT 0.07\Click-IT\obj\Debug\Click-IT_MarkupCompile.cache
+C:\Users\enzoe\OneDrive\Click-IT 0.07\Click-IT\obj\Debug\Click-IT_MarkupCompile.lref
+C:\Users\enzoe\OneDrive\Click-IT 0.07\Click-IT\obj\Debug\Game.baml
+C:\Users\enzoe\OneDrive\Click-IT 0.07\Click-IT\obj\Debug\MainWindow.baml
+C:\Users\enzoe\OneDrive\Click-IT 0.07\Click-IT\obj\Debug\MakeProfile.baml
+C:\Users\enzoe\OneDrive\Click-IT 0.07\Click-IT\obj\Debug\Click-IT.g.resources
+C:\Users\enzoe\OneDrive\Click-IT 0.07\Click-IT\obj\Debug\Click_IT.Properties.Resources.resources
+C:\Users\enzoe\OneDrive\Click-IT 0.07\Click-IT\obj\Debug\Click-IT.csproj.GenerateResource.Cache
+J:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.07\Click-IT\bin\Debug\Click-IT.exe.config
+J:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.07\Click-IT\obj\Debug\Click-IT.exe
+J:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.07\Click-IT\obj\Debug\Click-IT.pdb
+J:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.07\Click-IT\bin\Debug\playerDatabase.mdf
+J:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.07\Click-IT\bin\Debug\playerDatabase_log.ldf
+J:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.07\Click-IT\bin\Debug\Click-IT.exe
+J:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.07\Click-IT\bin\Debug\Click-IT.pdb
+J:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.07\Click-IT\bin\Debug\Xceed.Wpf.Toolkit.dll
+J:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.07\Click-IT\bin\Debug\Microsoft.Windows.Shell.pdb
+J:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.07\Click-IT\bin\Debug\Microsoft.Windows.Shell.xml
+J:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.07\Click-IT\obj\Debug\Click-IT.csprojResolveAssemblyReference.cache
+J:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.07\Click-IT\obj\Debug\Game.g.cs
+J:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.07\Click-IT\obj\Debug\MainWindow.g.cs
+J:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.07\Click-IT\obj\Debug\MakeProfile.g.cs
+J:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.07\Click-IT\obj\Debug\App.g.cs
+J:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.07\Click-IT\obj\Debug\Click-IT_Content.g.cs
+J:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.07\Click-IT\obj\Debug\Click-IT_MarkupCompile.cache
+J:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.07\Click-IT\obj\Debug\Click-IT_MarkupCompile.lref
+J:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.07\Click-IT\obj\Debug\Game.baml
+J:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.07\Click-IT\obj\Debug\MainWindow.baml
+J:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.07\Click-IT\obj\Debug\MakeProfile.baml
+J:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.07\Click-IT\obj\Debug\Click-IT.g.resources
+J:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.07\Click-IT\obj\Debug\Click_IT.Properties.Resources.resources
+J:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.07\Click-IT\obj\Debug\Click-IT.csproj.GenerateResource.Cache
+J:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.08\Click-IT\bin\Debug\Click-IT.exe.config
+J:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.08\Click-IT\obj\Debug\Click-IT.exe
+J:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.08\Click-IT\obj\Debug\Click-IT.pdb
+F:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.08\Click-IT\bin\Debug\Click-IT.exe.config
+F:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.08\Click-IT\obj\Debug\Click-IT.exe
+F:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.08\Click-IT\obj\Debug\Click-IT.pdb
+F:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.08\Click-IT\bin\Debug\playerDatabase.mdf
+F:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.08\Click-IT\bin\Debug\playerDatabase_log.ldf
+F:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.08\Click-IT\bin\Debug\Click-IT.exe
+F:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.08\Click-IT\bin\Debug\Click-IT.pdb
+F:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.08\Click-IT\bin\Debug\Microsoft.Windows.Shell.dll
+F:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.08\Click-IT\bin\Debug\MySql.Data.dll
+F:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.08\Click-IT\bin\Debug\Xceed.Wpf.Toolkit.dll
+F:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.08\Click-IT\bin\Debug\Microsoft.Windows.Shell.pdb
+F:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.08\Click-IT\bin\Debug\Microsoft.Windows.Shell.xml
+F:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.08\Click-IT\obj\Debug\Click-IT.csprojResolveAssemblyReference.cache
+F:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.08\Click-IT\obj\Debug\Game.g.cs
+F:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.08\Click-IT\obj\Debug\MainWindow.g.cs
+F:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.08\Click-IT\obj\Debug\MakeProfile.g.cs
+F:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.08\Click-IT\obj\Debug\App.g.cs
+F:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.08\Click-IT\obj\Debug\Click-IT_Content.g.cs
+F:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.08\Click-IT\obj\Debug\Click-IT_MarkupCompile.cache
+F:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.08\Click-IT\obj\Debug\Click-IT_MarkupCompile.lref
+F:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.08\Click-IT\obj\Debug\Game.baml
+F:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.08\Click-IT\obj\Debug\MainWindow.baml
+F:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.08\Click-IT\obj\Debug\MakeProfile.baml
+F:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.08\Click-IT\obj\Debug\Click-IT.g.resources
+F:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.08\Click-IT\obj\Debug\Click_IT.Properties.Resources.resources
+F:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.08\Click-IT\obj\Debug\Click-IT.csproj.GenerateResource.Cache
+J:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.08\Click-IT\bin\Debug\playerDatabase.mdf
+J:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.08\Click-IT\bin\Debug\playerDatabase_log.ldf
+J:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.08\Click-IT\bin\Debug\Click-IT.exe
+J:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.08\Click-IT\bin\Debug\Click-IT.pdb
+J:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.08\Click-IT\bin\Debug\MySql.Data.dll
+J:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.08\Click-IT\bin\Debug\Xceed.Wpf.Toolkit.dll
+J:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.08\Click-IT\bin\Debug\Microsoft.Windows.Shell.pdb
+J:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.08\Click-IT\bin\Debug\Microsoft.Windows.Shell.xml
+J:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.08\Click-IT\obj\Debug\Click-IT.csprojResolveAssemblyReference.cache
+J:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.08\Click-IT\obj\Debug\Game.g.cs
+J:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.08\Click-IT\obj\Debug\MainWindow.g.cs
+J:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.08\Click-IT\obj\Debug\MakeProfile.g.cs
+J:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.08\Click-IT\obj\Debug\App.g.cs
+J:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.08\Click-IT\obj\Debug\Click-IT_Content.g.cs
+J:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.08\Click-IT\obj\Debug\Click-IT_MarkupCompile.cache
+J:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.08\Click-IT\obj\Debug\Click-IT_MarkupCompile.lref
+J:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.08\Click-IT\obj\Debug\Game.baml
+J:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.08\Click-IT\obj\Debug\MainWindow.baml
+J:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.08\Click-IT\obj\Debug\MakeProfile.baml
+J:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.08\Click-IT\obj\Debug\Click-IT.g.resources
+J:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.08\Click-IT\obj\Debug\Click_IT.Properties.Resources.resources
+J:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.08\Click-IT\obj\Debug\Click-IT.csproj.GenerateResource.Cache
+I:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.08\Click-IT\bin\Debug\Click-IT.exe.config
+I:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.08\Click-IT\obj\Debug\Click-IT.exe
+I:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.08\Click-IT\obj\Debug\Click-IT.pdb
+I:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.08\Click-IT\bin\Debug\playerDatabase.mdf
+I:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.08\Click-IT\bin\Debug\playerDatabase_log.ldf
+I:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.08\Click-IT\bin\Debug\Click-IT.exe
+I:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.08\Click-IT\bin\Debug\Click-IT.pdb
+I:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.08\Click-IT\bin\Debug\MySql.Data.dll
+I:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.08\Click-IT\bin\Debug\Xceed.Wpf.Toolkit.dll
+I:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.08\Click-IT\obj\Debug\Game.g.cs
+I:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.08\Click-IT\obj\Debug\MainWindow.g.cs
+I:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.08\Click-IT\obj\Debug\MakeProfile.g.cs
+I:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.08\Click-IT\obj\Debug\App.g.cs
+I:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.08\Click-IT\obj\Debug\Click-IT_Content.g.cs
+I:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.08\Click-IT\obj\Debug\Click-IT_MarkupCompile.cache
+I:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.08\Click-IT\obj\Debug\Click-IT_MarkupCompile.lref
+I:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.08\Click-IT\obj\Debug\Game.baml
+I:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.08\Click-IT\obj\Debug\MainWindow.baml
+I:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.08\Click-IT\obj\Debug\MakeProfile.baml
+I:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.08\Click-IT\obj\Debug\Click-IT.g.resources
+I:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.08\Click-IT\obj\Debug\Click_IT.Properties.Resources.resources
+I:\Visual Studio\School\Periode 2\FUN12\xaml\Click-IT 0.08\Click-IT\obj\Debug\Click-IT.csproj.GenerateResource.Cache
